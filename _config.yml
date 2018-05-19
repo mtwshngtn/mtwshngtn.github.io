@@ -1,0 +1,4 @@
+name: mtwshngtn
+markdown: kramdown
+gems:
+  - jekyll-sitemap
